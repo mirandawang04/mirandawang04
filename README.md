@@ -9,6 +9,8 @@
 - 💬 Preguntame sobre **CSS, HTML, C#**
 
 - 📫 Como contactar conmigo **wangguomiranda@gmail.com**
+  
+- 📫 Mi Linkedin **https://www.linkedin.com/in/miranda-wang-guo-8954702a9/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
